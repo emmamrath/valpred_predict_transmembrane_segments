@@ -16,8 +16,8 @@ or on a web page as a cgi script on a web server.
 The Valpred program was first implemented as a C++ program by Lawrence K. Lee.  
 This perl program is a perl implementation of the C++ program.  
 Valpred was presented in [Rath et al. 2013](https://www.ncbi.nlm.nih.gov/pubmed/?term=23530628).  
-The REPIMPS algorithm was presented by [Dastmalchi et al. 2001](https://www.ncbi.nlm.nih.gov/pubmed/11468350).  
-The Profile 3D algorithm was presented by Bowie et al. 1991 and Lüthy et al. 1992.  
+The REPIMPS algorithm was presented in [Dastmalchi et al. 2001](https://www.ncbi.nlm.nih.gov/pubmed/11468350).  
+The Profile 3D algorithm was presented by [Bowie et al. 1991](https://www.ncbi.nlm.nih.gov/pubmed/1853201) and [Lüthy et al. 1992](https://www.ncbi.nlm.nih.gov/pubmed/1538787).  
 
 ### References
 
