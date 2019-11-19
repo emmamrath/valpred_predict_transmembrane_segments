@@ -1,0 +1,51 @@
+SASARES:::::2:::::
+GRAPHRESDIUEWIDTH:::::10:::::
+GRAPHHEIGHT:::::600:::::
+VALPRED1_OR_VALPRED2:::::1:::::
+MINAREADIFF:::::5:::::
+MVEAVE:::::10:::::
+MOV_AVG_1:::::10:::::
+MOV_AVG_2:::::5:::::
+MOV_AVG_3:::::5:::::
+MOV_AVG_4:::::6:::::
+MINAVESASA:::::0:::::
+TMLENGTHMIN_FOR_VALPRED1:::::12:::::
+TMLENGTHMAX_FOR_VALPRED1:::::40:::::
+TMLENGTHMIN_FOR_VALPRED2:::::6:::::
+TMLENGTHMAX_FOR_VALPRED2:::::38:::::
+AVEREPRANGEMIN:::::0.3:::::
+AVEREPRANGEMAX:::::0.8:::::
+AVEPROFRANGEMIN:::::-0.6:::::
+AVEPROFRANGEMAX:::::0:::::
+LENDIVAREAMIN:::::0.:::::
+LENDIVAREAMAX:::::1.8:::::
+MINSCOREDIFF:::::0:::::
+MIN_AVG_AREA:::::0.2:::::
+MAX_NONTMS_LENGTH:::::3:::::
+MIN_NONTMS_LENGTH:::::1:::::
+MIN_NONTMS_SCORE_DIFF:::::0:::::
+MIN_NONTMS_AREA:::::1.2:::::
+AREA_PER_RESIDUE_LOWER_LIMIT:::::0.8:::::
+AREA_PER_RESIDUE_UPPER_LIMIT:::::1.3:::::
+SEARCH_AREA_FOR_NEIGHBOUR_TMS:::::60:::::
+HELIX_LENGTH_MIN:::::6:::::
+PROFILES3D-LINE:::::0:::::1:::::1:::::0:::::0:::::255:::::cyan:::::Profiles 3D:::::0:::::0:::::
+REPIMPS-LINE:::::0:::::1:::::1:::::255:::::0:::::0:::::pink:::::REPIMPS:::::0:::::0:::::
+OVERALL:::::0:::::1:::::10:::::0:::::0:::::0:::::black:::::Overall:::::0:::::1:::::
+PROFILES3D-MOV-AVG-1:::::1:::::1:::::10:::::0:::::0:::::255:::::blue:::::Profiles 3D (mv.av.1):::::0:::::1:::::
+REPIMPS-MOV-AVG-1:::::1:::::1:::::10:::::255:::::0:::::0:::::red:::::REPIMPS (mv.av.1):::::0:::::1:::::
+TMS-MOV-AVG-1:::::0:::::1:::::0:::::0:::::0:::::0:::::red:::::TMS (mv.av.1):::::1.6:::::0:::::
+PROFILES3D-MOV-AVG-2:::::0:::::1:::::5:::::0:::::0:::::255:::::lblue:::::Profiles 3D (mv.av.2):::::0:::::0:::::
+REPIMPS-MOV-AVG-2:::::0:::::1:::::5:::::255:::::0:::::0:::::lred:::::REPIMPS (mv.av.2):::::0:::::0:::::
+TMS-MOV-AVG-2:::::0:::::1:::::0:::::0:::::0:::::0:::::lred:::::TMS (mv.av.2):::::1.58:::::0:::::
+PROFILES3D-MOV-AVG-3:::::0:::::1:::::5:::::0:::::0:::::255:::::lblue:::::Profiles 3D (mv.av.3):::::0:::::0:::::
+REPIMPS-MOV-AVG-3:::::0:::::1:::::5:::::255:::::0:::::0:::::lred:::::REPIMPS (mv.av.3):::::0:::::0:::::
+HYDROPHILIC-MOV-AVG-3:::::0:::::1:::::0:::::0:::::0:::::0:::::lblue:::::Hydrophilic area (mv.av.3):::::1.56:::::0:::::
+PROFILES3D-MOV-AVG-4:::::0:::::1:::::10:::::0:::::0:::::255:::::cyan:::::Profiles 3D (mv.av.4):::::0:::::1:::::
+REPIMPS-MOV-AVG-4:::::0:::::1:::::10:::::255:::::0:::::0:::::pink:::::REPIMPS (mv.av.4):::::0:::::1:::::
+HYDROPHILIC-MOV-AVG-4:::::0:::::1:::::0:::::0:::::0:::::0:::::cyan:::::Hydrophilic area (mv.av.4):::::1.54:::::0:::::
+TMS:::::1:::::1:::::0:::::0:::::0:::::0:::::black:::::Transmembrane Segments:::::1.7:::::0:::::
+TRUE-TMS:::::1:::::1:::::10:::::0:::::0:::::0:::::green:::::true TMS:::::1.9:::::0:::::
+TRUE-INSIDE:::::1:::::1:::::10:::::0:::::0:::::0:::::lgreen:::::true inside:::::1.86:::::0:::::
+TRUE-OUTSIDE:::::1:::::1:::::10:::::0:::::0:::::0:::::dgreen:::::true outside:::::1.84:::::0:::::
+
