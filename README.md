@@ -19,7 +19,7 @@ Valpred was presented in [Rath et al. 2013](https://www.ncbi.nlm.nih.gov/pubmed/
 The REPIMPS algorithm was presented by [Dastmalchi et al. 2001](https://www.ncbi.nlm.nih.gov/pubmed/11468350).  
 The Profile 3D algorithm was presented by Bowie et al. 1991 and Lüthy et al. 1992.  
 
-### Citations
+### References
 
 [A benchmark server using high resolution protein structure data, and benchmark results for membrane helix predictions.](https://www.ncbi.nlm.nih.gov/pubmed/?term=23530628)  
 Rath EM, Tessier D, Campbell AA, Lee HC, Werner T, Salam NK, Lee LK, Church WB.  
